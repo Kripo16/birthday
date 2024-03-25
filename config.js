@@ -3,16 +3,14 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "give it to me",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "BABY",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "Lovely little cutie",  // 同上...
         "today is your birthday",
-        "This is what we have together",
-        "It’s the third birthday",
-        "last year's birthday",
-        "Still remember the day we ate at Wang Po Chuan Chuan?",
-        "I want to eat well this year",
-        "I want to feed my cute pigs well.",
-        "Then take it away",
+        "and GOD BLESS UU !!",
+        "U GOT A LIL OLDER",
+        "HOPE U A LIFE FULL OF SUCCESS",
+        "WITH ME BY UR SIDE OFC !!",
+        "ILYYY !!",
         "IMAD~~",
     ],
     /**
@@ -30,13 +28,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "start",
-        play: "music",
-        bannar_coming: "color",
+        turn_on: "turn on lights",
+        play: "special music for you!! let's play",
+        bannar_coming: "let's do some decoration!!",
         balloons_flying: "It seems like something is missing",
-        cake_fadein: "cake west？",
-        light_candle: "Candle？",
-        wish_message: "Happy birthday",
-        story: "A MESSAGE FOR YOU",
+        cake_fadein: "Ready for your cake?!",
+        light_candle: "What you waiting for !! Light it UP !!",
+        wish_message: "Happy birthday habiby 💗",
+        story: "A CUTE MESSAGE FOR YOU",
     }
 };
